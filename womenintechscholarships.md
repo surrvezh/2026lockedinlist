@@ -1,50 +1,59 @@
-## Programs for Girls/Women – Scholarships, Hiring & Leadership (India + Global)
+## Programs for Girls/Women – Scholarships, Internships, Hiring & Leadership  
+(India + Global)
 
-| Category                               | Program name                                      | Type (Scholarship / Internship / Hiring / Leadership) | Core benefit (1‑line)                                                                 |
-|----------------------------------------|---------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Scholarship / Case Competition         | Adobe Women in Tech                               | Scholarship + mentorship + internship                 | Tuition support plus mentoring and potential internship in tech roles.                |
-| Scholarship / Case Competition         | Bain True North Scholarship for Women             | Scholarship + leadership                              | Scholarship plus Bain exposure and interview/leadership opportunities.                |
-| Scholarship / Case Competition         | Tata Steel Women of Mettle                        | Scholarship + PPO/PPI                                 | Engineering case competition with scholarship and pre‑placement opportunities.        |
-| Scholarship / Case Competition         | Synopsys Women in Engineering Scholarship         | Scholarship                                           | Financial support for women pursuing engineering disciplines.                         |
-| Scholarship / Case Competition         | EY Women in Tech & Business Scholarship           | Scholarship + networking                              | Fee support with tech + business exposure and networking.                             |
-| Scholarship / Case Competition         | HUL WiSM (Women in Sales & Marketing)             | Scholarship + management                              | Scholarships and career exposure in sales and marketing roles.                        |
-| Scholarship / Case Competition         | Vedanta Women in STEM & Management Program        | Scholarship + management                              | Financial aid with opportunities in STEM and management roles.                        |
-| Tech Internship / PPO Pipelines        | Flipkart Runway                                   | Internship + PPO                                      | Women‑only tech internship funnel with chance of PPO at Flipkart.                     |
-| Tech Internship / PPO Pipelines        | Amazon WoW (Women of the World)                   | Mentorship + hiring pipeline                          | Community, sessions and early hiring visibility for women in tech.                    |
-| Tech Internship / PPO Pipelines        | Uber She++                                        | Mentorship + internship                               | Mentoring and project work leading to potential tech opportunities at Uber.           |
-| Tech Internship / PPO Pipelines        | ZS Women in Tech                                  | Mentorship + hiring pipeline                          | Events and mentoring geared towards tech/analytics roles at ZS.                       |
-| Tech Internship / PPO Pipelines        | GWiC by Google (Girls/Women in Computing)         | Mentorship + exposure                                 | Direct mentoring and guidance from Googlers for women in computing.                   |
-| Tech Internship / PPO Pipelines        | SHE Codes – IIT Bombay                            | Coding + mentorship                                   | Coding bootcamp plus mentorship to strengthen projects and profiles.                  |
-| Tech Internship / PPO Pipelines        | Codess by Microsoft                               | Mentorship + hiring visibility                        | Women‑focused program to get noticed for Microsoft tech roles.                        |
-| Tech Internship / PPO Pipelines        | Microsoft Engage                                  | Project + internship track                            | Project‑based program that can lead to internship offers.                             |
-| Tech Internship / PPO Pipelines        | Morgan Stanley Women in Tech                      | Mentorship + hiring pipeline                          | Exposure and possible roles in technology at Morgan Stanley.                          |
-| Tech Internship / PPO Pipelines        | Cisco Women in Tech Talent Bridge                 | Skilling + hiring pipeline                            | Training and hiring bridge for women in network/IT roles.                             |
-| Tech Internship / PPO Pipelines        | Intel Women Innovators Program                    | Innovation + mentoring                                | Support for women driving tech innovation with visibility at Intel.                   |
-| Tech Internship / PPO Pipelines        | GE Women in STEM Initiative                       | Mentorship + projects                                 | STEM mentoring and project opportunities in GE domains.                               |
-| Tech Internship / PPO Pipelines        | American Express Women in Tech Hiring             | Hiring program                                        | Focused hiring for women into tech roles at American Express.                         |
-| Tech Internship / PPO Pipelines        | Mastercard Girls4Tech Career Track                | Skilling + hiring awareness                           | STEM curriculum and early career awareness around tech at Mastercard.                 |
-| Tech Hiring / Early Career (Tech)      | TCS Ignite for Women                              | Training + hiring                                     | Structured learning plus entry‑level hiring opportunity in TCS tech roles.            |
-| Tech Hiring / Early Career (Tech)      | Infosys Springboard Women Program                 | Skilling + hiring support                             | Learning platform and visibility for women towards Infosys roles.                     |
-| Tech Hiring / Early Career (Tech)      | Wipro Women Hiring (Girls of Wipro)               | Campus/early hiring                                   | Women‑focused hiring programs for entry‑level roles at Wipro.                         |
-| Tech Hiring / Early Career (Tech)      | Tech Mahindra Women Hiring Program                | Campus/early hiring                                   | Dedicated women hiring initiatives across Tech Mahindra roles.                        |
-| Tech Hiring / Early Career (Tech)      | Tata Communications Women Returnship & Hiring     | Returnship + hiring                                   | Returnship and full‑time hiring for women returning to tech careers.                  |
-| Tech Hiring / Early Career (Tech)      | Reliance HerCircle Career Program                 | Skilling + hiring support                             | Career guidance and opportunities for women across Reliance ecosystem.                |
-| Business / Consulting / Finance        | Accenture Women Hiring Program                    | Hiring program                                        | Women‑only or women‑focused hiring for consulting/tech roles.                         |
-| Business / Consulting / Finance        | Deloitte Women in Business Program                | Leadership + hiring pipeline                          | Business skills and potential routes into Deloitte roles.                             |
-| Business / Consulting / Finance        | KPMG Women in Advisory Program                    | Leadership + hiring pipeline                          | Advisory/consulting exposure and mentorship for women.                                |
-| Business / Consulting / Finance        | McKinsey Women’s Leadership / NGWL Asia–Pacific   | Leadership + recruiting funnel                        | Leadership workshops plus interview visibility for consulting roles.                  |
-| Business / Consulting / Finance        | BCG Women@BCG India Program                       | Leadership + recruiting funnel                        | Networking and early access to BCG recruiting for women.                              |
-| Business / Consulting / Finance        | Bain True North (India)                           | Scholarship + recruiting funnel                       | Scholarship plus interview and internship chances at Bain India.                      |
-| Business / Consulting / Finance        | JPMC Winning Women Program                        | Leadership + hiring pipeline                          | Events and mentorship that feed into JPMC hiring.                                     |
-| Business / Consulting / Finance        | Citi Women in Finance Initiative (India)          | Leadership + hiring pipeline                          | Training and networking for women aiming for finance roles.                           |
-| Business / Consulting / Finance        | HSBC Women in Banking Program (India)             | Leadership + hiring pipeline                          | Banking exposure and possible internships/full‑time roles.                            |
-| Business / Consulting / Finance        | Wells Fargo Women in Analytics (India)            | Analytics + hiring pipeline                           | Analytics‑focused sessions and hiring visibility for women.                           |
-| Business / Consulting / Finance        | L'Oréal Young Women in Management                 | Management leadership                                 | Management development and leadership exposure at L'Oréal.                            |
-| Business / Consulting / Finance        | Mahindra Future Shapers (Women)                   | Leadership + scholarship                              | Leadership program and financial/mentorship support for women.                        |
-| Research / Scientist / Policy          | DRDO Women Scientist Program                      | Research fellowship                                   | Fellowships for women scientists in defence‑related research.                         |
-| Research / Scientist / Policy          | ISRO Women Scientist Program                      | Research fellowship                                   | Opportunities for women in space and allied technology research.                      |
-| Research / Scientist / Policy          | DST Women Scientist Scheme (WOS)                  | Fellowship + research grant                           | Supports women with science degrees to pursue independent research.                   |
-| Research / Scientist / Policy          | UN Women Lead Internship Pathway                  | Global internship + leadership                        | International development and gender policy exposure for women.                       |
-| Research / Scientist / Policy          | World Bank Women in Business Education Initiative | Scholarship + leadership                              | Business education and leadership development support for women.                      |
-| Leadership / Returnship & Others       | NPCI Women Leadership / Returnity Program         | Returnship + leadership                               | Returnship and leadership track for women returning to work at NPCI.                  |
-| Leadership / Returnship & Others       | Accor RiiSE Women Leadership Program              | Leadership                                            | Hospitality‑focused leadership and mentoring for women.                               |
+> Eligibility depends on branch, year, income criteria, and program guidelines.  
+> Always verify details from the official website before applying.
+
+---
+
+## 🔧 TECH PROGRAMS (Engineering, AI, CS, STEM)
+
+| Program Name | Type | Core Benefit | Link |
+|-------------|------|--------------|------|
+| AI by Her Global Challenge | Leadership / Challenge | Mentorship and global pitch platform for women-led AI teams | https://www.ai4all.org/programs |
+| Amazon Future Engineer Scholarship | Scholarship + Internship | ₹50,000/year for 4 years + bootcamps + Amazon exposure | https://www.amazonfutureengineer.in/scholarship |
+| BioE3 Challenge | Innovation Challenge | Biotechnology innovation challenge for women | https://www.biotechunipune.org |
+| Ericsson Empowering Girl Scholarship | Scholarship | ₹75,000 for 2nd-year female engineering students | https://www.buddy4study.com/page/ericsson-empowering-girl-scholarship-program |
+| Flipkart Girls Wanna Code 7.0 | Upskilling + Internship | Coding challenge with PPI opportunities | https://hack-the-opportunities.netlify.app/ |
+| Google Women in Silicon Hardware (WISH) | Mentorship + Training | 15-month immersive hardware engineering program | https://wish.talentsprint.com/ |
+| HCL Tech Bee for Women | Early Career Program | Sponsored degree + paid work experience | https://www.hcltech.com |
+| Infosys Foundation STEM Stars | Scholarship | ₹1,00,000 per annum for women in STEM | https://www.buddy4study.com |
+| Legrand Empowering Scholarship | Scholarship | Financial aid for girls pursuing B.Tech / Architecture | https://legrandscholarship.co.in/ |
+| Linux Foundation LiFT Scholarship | Scholarship + Certification | Open-source training and certification | https://training.linuxfoundation.org/scholarships/lift/ |
+| Nasscom Makers Honor Awards | Recognition | Awards for women engineers building tech solutions | https://nasscom.in |
+| Nasscom SME Inspire Awards | Recognition + Mentorship | Platform for women-led tech SMEs | https://nasscom.in |
+| Nutanix WiT Scholarship | Scholarship + Mentorship | Funding and mentorship for women in CS/Engineering | https://www.nutanix.com |
+| Panasonic Ratti Chhatr Scholarship | Scholarship | ₹70,250 annual support for female B.Tech students | https://www.buddy4study.com |
+| Pragati AICTE Scholarship | Scholarship | ₹50,000/year for girls in technical courses | https://www.aicte-india.org/schemes/students-development-schemes/Pragati |
+| Rolls-Royce Wings4Her Scholarship | Scholarship + Mentorship | ₹35,000 award + mentorship for women engineers | https://www.buddy4study.com/page/rolls-royce-wings4her-scholarship-for-women-engineering-students |
+| Siemens Scholarship Program | Scholarship + Development | Financial aid + holistic development | https://www.siemens.co.in/about/siemens-scholarship-program |
+| SWE India Scholars Program | Scholarship | ₹85,000 for women engineers | https://swe.org/scholarships/ |
+| Venkat Panchapakesan Scholarship | Scholarship | Award for tech-driven social impact | https://www.buddy4study.com |
+| Virtusa Engineering Excellence | Scholarship | ₹50,000 aid for female engineering students | https://www.buddy4study.com |
+| VBYLD 2026 Hackathon | Hackathon | Ministry-led hackathon for social impact | https://yuvakhel.nic.in/ |
+
+---
+
+## 🌱 NON-TECH PROGRAMS (Policy, Management, Social, Leadership)
+
+| Program Name | Type | Core Benefit | Link |
+|-------------|------|--------------|------|
+| Aadhar Kaushal Scholarship | Scholarship | Funding support for girls in vocational or higher education | Refer to Google / Buddy4Study |
+| Aditya Birla Capital Scholarship | Scholarship | Financial support for girls from Class 9 to Graduation | https://www.buddy4study.com |
+| CARE India Woman Internship | Internship | Social sector internship focused on women empowerment | https://www.careindia.org/get-involved/internships/ |
+| Colgate Keep India Smiling | Scholarship | Up to ₹75,000 for girls in professional courses | https://www.colgatepalmolive.com |
+| Design for Bharat Challenge | Competition | National youth innovation challenge | https://www.mygov.in |
+| HDFC Parivartan ECSS | Scholarship | Up to ₹75,000 support for students in crisis | https://www.parivartanecss.com/ |
+| JK Tyre Shiksha Sarthi | Scholarship | One-time ₹25,000 aid for girls | https://www.buddy4study.com |
+| Kotak Kanya Scholarship | Scholarship | Up to ₹1.5 lakh/year for meritorious girls | https://www.buddy4study.com/page/kotak-kanya-scholarship |
+| Marriott Voyage Program 2026 | Leadership Internship | Leadership development in hospitality | https://careers.marriott.com |
+| MEA Internship Programme | Govt Internship | ₹10,000/month policy internship | https://mea.gov.in/internship-mea.htm |
+| My AI Future Reel Contest | Competition | Digital content competition | https://www.mygov.in |
+| Nestlé Nesternship | Internship | Corporate internship across HR, marketing, sales | https://www.nestle.in/jobs/nesternship |
+| SBI Foundation Asha Scholarship | Scholarship | Nationwide scholarship for low-income girls | https://www.buddy4study.com |
+| Viksit Bharat Challenge | Competition | PPT/Essay competition | https://www.mygov.in |
+| Viksit Bharat Young Leaders | Leadership Platform | National leadership platform | https://www.mygov.in |
+| WEI Business Pitch Competition | Pitch Competition | Cash-prize pitch event for women entrepreneurs | https://www.womeneconomicforum.org/ |
+| Winnie Sun Scholarship | Scholarship | ₹65,000/year for girls from low-income families | https://www.buddy4study.com |
+
+---
