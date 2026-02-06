@@ -10,9 +10,9 @@
 
 | Program Name | Type | Core Benefit | Link |
 |-------------|------|--------------|------|
-| AI by Her Global Challenge | Leadership / Challenge | Mentorship and global pitch platform for women-led AI teams | https://www.ai4all.org/programs |
+| AI by Her Global Challenge | Leadership / Challenge | Mentorship and global pitch platform for women-led AI teams | Google for link |
 | Amazon Future Engineer Scholarship | Scholarship + Internship | ₹50,000/year for 4 years + bootcamps + Amazon exposure | https://www.amazonfutureengineer.in/scholarship |
-| BioE3 Challenge | Innovation Challenge | Biotechnology innovation challenge for women | https://www.biotechunipune.org |
+| BioE3 Challenge | Innovation Challenge | Biotechnology innovation challenge for women |https://innovateindia.mygov.in/bioe3/ |
 | Ericsson Empowering Girl Scholarship | Scholarship | ₹75,000 for 2nd-year female engineering students | https://www.buddy4study.com/page/ericsson-empowering-girl-scholarship-program |
 | Flipkart Girls Wanna Code 7.0 | Upskilling + Internship | Coding challenge with PPI opportunities | https://hack-the-opportunities.netlify.app/ |
 | Google Women in Silicon Hardware (WISH) | Mentorship + Training | 15-month immersive hardware engineering program | https://wish.talentsprint.com/ |
