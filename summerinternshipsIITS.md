@@ -1,3 +1,14 @@
+
+
+⚡ Get DAILY internship updates from Surrvesh Joshua (don’t rely on this list alone):
+
+👉 Instagram (latest opportunities + deadlines): https://www.instagram.com/surrvesh_joshua/
+👉 WhatsApp Channel (instant alerts): https://www.whatsapp.com/channel/0029Vanmr9EJuyABr8X5US2z
+
+🔥 I post new internships, hackathons & hiring updates every day.
+⭐ Don’t miss out — most opportunities close early.
+
+---
 #  Summer Internship Opportunities 2026 (India)
 
 | Institute | Eligibility | Duration | Accommodation | Stipend | Deadline | Apply |
