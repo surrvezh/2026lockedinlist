@@ -1,6 +1,8 @@
 # 🎓 AICTE Internship Listings — ECE/EEE/VLSI
 > Sorted by **Last Date to Apply** | Source: AICTE Internship Portal | Updated: 22-Apr-2026
 
+VLSI Roadmap : https://apgy.in/yt/XLIZafB0lbY
+
 ---
 
 > ⚠️ **Notes before applying:**
