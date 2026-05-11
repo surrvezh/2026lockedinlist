@@ -1,5 +1,12 @@
 # 🎓 Scholarships for Students Joining College in India
 
+Follow surrvesh joshua for more such contents
+https://www.instagram.com/surrvesh_joshua
+
+Follow surrveshexplains for tamil content
+https://www.instagram.com/surrveshexplains
+
+
 | # | Scholarship Name | Link | Eligibility |
 |---|-----------------|------|-------------|
 | 1 | **Central Sector Scheme of Scholarships (CSSS)** | [scholarships.gov.in](https://scholarships.gov.in) | Class 12 passed with 80th percentile+, family income ≤ ₹8 LPA, enrolled in regular degree course |
